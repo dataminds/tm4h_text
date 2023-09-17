@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "tm4h_text"
+  title: "tm4h-text"
   author: "안도현"
   search: true
   date: "2023. 9. 17."
