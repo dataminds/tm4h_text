@@ -1,9 +1,26 @@
-# Introduction
+# Introduction {.unnumbered}
 
-This is a book created from markdown and executable code.
+이 책은 안도현의 텍스트마이닝 교재 <텍스트마이닝으로 배우는 행복>에서 행복에 대한 문서. 
 
-See @knuth84 for additional discussion of literate programming.
+## 주요 내용
 
-```{r}
-1 + 1
-```
+- 1장 합리성과 도덕: 광우병, 보신탕, 매춘의 공통점
+
+- 2장 권력: 마키아벨리가 노자에게 지는 이유
+
+- 3장 매력: 강남좌파와 아이폰  
+
+- 4장 사랑: 연애세포란게 있을까? 
+
+- 5장 욕망: 삶을 가능하게 하는 원동력
+
+- 6장 자살: 욕망의 상실
+
+- 7장 선택: 자유의지는 환상인가?
+
+- 8장 교육: 성공의 비밀은 기개
+
+- 9장 오락: 정의, 고통, 따스함
+
+- 10장 행복: 욕망과 성취의 방정식
+

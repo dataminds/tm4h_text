@@ -3,21 +3,65 @@ project:
 
 book:
   title: "tm4h_text"
-  author: "Jane Doe"
+  author: "안도현"
+  search: true
   date: "2023. 9. 17."
+  
+  sidebar:
+    style: docked
+    background: light
+    
   chapters:
     - index.qmd
     - intro.qmd
+    
+    - ch01-moral.qmd
+    - ch02-power.qmd
+    - ch03-attract.qmd
+    - ch04-love.qmd
+    - ch05-desire.qmd
+    - ch06-suicide.qmd
+    - ch07-choice.qmd
+    - ch08-edu.qmd
+    - ch09-entertain.qmd
+    - ch10-happiness.qmd
+    
     - summary.qmd
     - references.qmd
 
+page-navigation: true      
+
+comments:
+  hypothesis: true
+  
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
+    cover-image: cover.png
+  #  code-fold: true
+  #  code-tools: true
+  #  code-block-border-left: true
+  #  code-overflow: scroll
+  
   pdf:
     documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex    
+        
+execute: 
+  echo: true
+  cache: false
+  warning: false
+  message: false
+
+server: shiny
 
 
 

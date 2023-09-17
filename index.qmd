@@ -1,9 +1,26 @@
-# Preface {.unnumbered}
+# Cover {.unnumbered}
 
-This is a Quarto book.
+인용: 
+안도현 (2023) 텍스트마이닝으로 배우는 행복 텍스트, tm4h_text.netlify.com
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## 저자 
 
-```{r}
-1 + 1
-```
+### Ahn, Dohyun (안도현)
+
+- Professor@Dept. of Journalism & PR, Jeju National University
+
+- Joint Appointment@Grad. Sch. of Data Science for Sustainable Growth
+
+- Email: dohyun@SocialBrain.kr | dahn@jejunu.ac.kr  
+
+- Address: 2331-2 Social Science Bldg., 102 Jejudaehak-ro, Jeju-si, 63243, Republic of Korea  
+
+- Phone: +82-64-754-2946 Fax: +82-64-702-4240  
+
+- 홈페이지: socialbrain.kr minds.kr
+
+
+
+
+
+

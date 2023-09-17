@@ -1,7 +1,4 @@
-# Summary
+# Summary {.unnumbered}
 
-In summary, this book has no content whatsoever.
+In summary, this book has ... 
 
-```{r}
-1 + 1
-```
