@@ -1,61 +1,3 @@
-
-  8  교육
-
-//
-
-tm4h-text <file:///T:/data/textData/tm4h_text/_book/>
-
-  *
-    Cover <file:///T:/data/textData/tm4h_text/_book/index.html>
-  *
-    Introduction <file:///T:/data/textData/tm4h_text/_book/intro.html>
-  *
-    1  도덕 <file:///T:/data/textData/tm4h_text/_book/ch01-moral.html>
-  *
-    2  권력 <file:///T:/data/textData/tm4h_text/_book/ch02-power.html>
-  *
-    3  매력 <file:///T:/data/textData/tm4h_text/_book/ch03-attract.html>
-  *
-    4  사랑 <file:///T:/data/textData/tm4h_text/_book/ch04-love.html>
-  *
-    5  욕망 <file:///T:/data/textData/tm4h_text/_book/ch05-desire.html>
-  *
-    6  자살 <file:///T:/data/textData/tm4h_text/_book/ch06-suicide.html>
-  *
-    7  선택 <file:///T:/data/textData/tm4h_text/_book/ch07-choice.html>
-  *
-    8  교육 <file:///T:/data/textData/tm4h_text/_book/ch08-edu.html>
-  *
-    9  오락 <file:///T:/data/textData/tm4h_text/_book/ch09-entertain.html>
-  *
-    10  행복 <file:///T:/data/textData/tm4h_text/_book/ch10-happiness.html>
-  *
-    Summary <file:///T:/data/textData/tm4h_text/_book/summary.html>
-  *
-    References <file:///T:/data/textData/tm4h_text/_book/references.html>
-
-
-    Table of contents
-
-  * 성공의 비밀은 기개 <#성공의-비밀은-기개>
-  * 8.1 웨스트포인트의 발견 <#웨스트포인트의-발견>
-  * 8.2 만들어진 천재 <#만들어진-천재>
-      o 8.2.1 지능의 한계 <#지능의-한계>
-      o 8.2.2 기개(Grit) <#기개grit>
-  * 8.3 1만시간의 비밀 <#만시간의-비밀>
-      o 8.3.1 의도적 반복 학습 <#의도적-반복-학습>
-      o 8.3.2 1만시간훈련의 사회환경 <#만시간훈련의-사회환경>
-  * 8.4 마음의 근육 <#마음의-근육>
-      o 8.4.1 두종류의 지능 <#두종류의-지능>
-  * 8.5 마음의 기술 <#마음의-기술>
-      o 8.5.1 성장형 마음가짐 <#성장형-마음가짐>
-      o 8.5.2 칭찬하는 방법 <#칭찬하는-방법>
-  * 8.6 한국의 교육 <#한국의-교육>
-      o 8.6.1 시험점수 중심 교육의 폐해 <#시험점수-중심-교육의-폐해>
-      o 8.6.2 수면과 두뇌의 관계 <#수면과-두뇌의-관계>
-  * 8.7 두뇌를 살리는 교육 <#두뇌를-살리는-교육>
-
-
   8  교육
 
 
@@ -813,12 +755,3 @@ Factor)라는 단백질 때문이다. BDNF는 신경세포들이 젊고 건강�
 을 대상으로 24주간 마음챙김 명상 프로그램을 실시한 결과, 초등학교 학생들
 의 집중력 향상과 사회기술 증가 및 시험 불안감 등의 감소로 이어졌다
 (Napoli, Krech, & Holley 2005).
-
-/
-
-/ 7  선택 <file:///T:/data/textData/tm4h_text/_book/ch07-choice.html>
-9  오락
-/
-
-/ <file:///T:/data/textData/tm4h_text/_book/ch09-entertain.html>
-

@@ -1,64 +1,3 @@
-
-  2  권력
-
-//
-
-tm4h-text <https://tm4h-text.netlify.app/>
-
-  *
-    Cover <https://tm4h-text.netlify.app/>
-  *
-    Introduction <https://tm4h-text.netlify.app/intro>
-  *
-    1  도덕 <https://tm4h-text.netlify.app/ch01-moral>
-  *
-    2  권력 <https://tm4h-text.netlify.app/ch02-power>
-  *
-    3  매력 <https://tm4h-text.netlify.app/ch03-attract>
-  *
-    4  사랑 <https://tm4h-text.netlify.app/ch04-love>
-  *
-    5  욕망 <https://tm4h-text.netlify.app/ch05-desire>
-  *
-    6  자살 <https://tm4h-text.netlify.app/ch06-suicide>
-  *
-    7  선택 <https://tm4h-text.netlify.app/ch07-choice>
-  *
-    8  교육 <https://tm4h-text.netlify.app/ch08-edu>
-  *
-    9  오락 <https://tm4h-text.netlify.app/ch09-entertain>
-  *
-    10  행복 <https://tm4h-text.netlify.app/ch10-happiness>
-  *
-    Summary <https://tm4h-text.netlify.app/summary>
-  *
-    References <https://tm4h-text.netlify.app/references>
-
-
-    Table of contents
-
-  * 마키아벨리가 노자에게 지는 이유
-    <https://tm4h-text.netlify.app/ch02-power#%EB%A7%88%ED%82%A4%EC%95%84%EB%B2%A8%EB%A6%AC%EA%B0%80-%EB%85%B8%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0>
-  * 2.1 권력의 몰락
-    <https://tm4h-text.netlify.app/ch02-power#%EA%B6%8C%EB%A0%A5%EC%9D%98-%EB%AA%B0%EB%9D%BD>
-      o 2.1.1 권력이란?
-        <https://tm4h-text.netlify.app/ch02-power#%EA%B6%8C%EB%A0%A5%EC%9D%B4%EB%9E%80>
-      o 2.1.2 자기중심화
-        <https://tm4h-text.netlify.app/ch02-power#%EC%9E%90%EA%B8%B0%EC%A4%91%EC%8B%AC%ED%99%94>
-      o 2.1.3 둔감화
-        <https://tm4h-text.netlify.app/ch02-power#%EB%91%94%EA%B0%90%ED%99%94>
-      o 2.1.4 도덕적 위선
-        <https://tm4h-text.netlify.app/ch02-power#%EB%8F%84%EB%8D%95%EC%A0%81-%EC%9C%84%EC%84%A0>
-      o 2.1.5 권력이 정당성을 잃으면?
-        <https://tm4h-text.netlify.app/ch02-power#%EA%B6%8C%EB%A0%A5%EC%9D%B4-%EC%A0%95%EB%8B%B9%EC%84%B1%EC%9D%84-%EC%9E%83%EC%9C%BC%EB%A9%B4>
-  * 2.2 권력역설
-    <https://tm4h-text.netlify.app/ch02-power#%EA%B6%8C%EB%A0%A5%EC%97%AD%EC%84%A4>
-      o 2.2.1 마키아벨리의 오류
-        <https://tm4h-text.netlify.app/ch02-power#%EB%A7%88%ED%82%A4%EC%95%84%EB%B2%A8%EB%A6%AC%EC%9D%98-%EC%98%A4%EB%A5%98>
-      o 2.2.2 역설의 극복
-        <https://tm4h-text.netlify.app/ch02-power#%EC%97%AD%EC%84%A4%EC%9D%98-%EA%B7%B9%EB%B3%B5>
-
-
   2  권력
 
 
@@ -363,12 +302,3 @@ self-focus). 이기주의적이고, 자아도취에 빠지다 보니, 원하는 
 앞에 서되 방해가 되지 말라는 것이다.
 
 권력을 쥐고도 겸손해지는 것은 결코 쉽지 만은 않다. 불가능하지는 않다.
-
-/
-
-/ 1  도덕 <https://tm4h-text.netlify.app/ch01-moral>
-3  매력
-/
-
-/ <https://tm4h-text.netlify.app/ch03-attract>
-

@@ -1,53 +1,3 @@
-
-  6  자살
-
-//
-
-tm4h-text <file:///T:/data/textData/tm4h_text/_book/>
-
-  *
-    Cover <file:///T:/data/textData/tm4h_text/_book/index.html>
-  *
-    Introduction <file:///T:/data/textData/tm4h_text/_book/intro.html>
-  *
-    1  도덕 <file:///T:/data/textData/tm4h_text/_book/ch01-moral.html>
-  *
-    2  권력 <file:///T:/data/textData/tm4h_text/_book/ch02-power.html>
-  *
-    3  매력 <file:///T:/data/textData/tm4h_text/_book/ch03-attract.html>
-  *
-    4  사랑 <file:///T:/data/textData/tm4h_text/_book/ch04-love.html>
-  *
-    5  욕망 <file:///T:/data/textData/tm4h_text/_book/ch05-desire.html>
-  *
-    6  자살 <file:///T:/data/textData/tm4h_text/_book/ch06-suicide.html>
-  *
-    7  선택 <file:///T:/data/textData/tm4h_text/_book/ch07-choice.html>
-  *
-    8  교육 <file:///T:/data/textData/tm4h_text/_book/ch08-edu.html>
-  *
-    9  쾌락 <file:///T:/data/textData/tm4h_text/_book/ch09-entertain.html>
-  *
-    10  행복 <file:///T:/data/textData/tm4h_text/_book/ch10-happiness.html>
-  *
-    Summary <file:///T:/data/textData/tm4h_text/_book/summary.html>
-  *
-    References <file:///T:/data/textData/tm4h_text/_book/references.html>
-
-
-    Table of contents
-
-  * 욕망의 상실 <#욕망의-상실>
-  * 6.1 관계의 단절 <#관계의-단절>
-      o 6.1.1 지능과의 관계 <#지능과의-관계>
-      o 6.1.2 이성 섹스의 영향 <#이성-섹스의-영향>
-  * 6.2 외로움의 고통 <#외로움의-고통>
-      o 6.2.1 실연증후군 <#실연증후군>
-      o 6.2.2 통증, 고립 경보 <#통증-고립-경보>
-      o 6.2.3 자살은 지적인 선택 <#자살은-지적인-선택>
-  * 6.3 심리적 면역 <#심리적-면역>
-
-
   6  자살
 
 
@@ -421,12 +371,3 @@ happiness)>가 감정예측이란 심리현상을 통해, 어떻게 사람들이
 바로 삶의 의미다. 그런데, 삶의 의미는 사회적 관계에서 온다. 사회에 짐이
 되고 있다는 부담감이 자살을 생각하게 하는데, 바로 그 사회적 관계가 자살
 을 막을 수 있는 유력한 원천이라는 사실은 묘한 역설이다.
-
-/
-
-/ 5  욕망 <file:///T:/data/textData/tm4h_text/_book/ch05-desire.html>
-7  선택
-/
-
-/ <file:///T:/data/textData/tm4h_text/_book/ch07-choice.html>
-

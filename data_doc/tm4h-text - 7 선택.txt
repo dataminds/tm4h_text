@@ -1,55 +1,3 @@
-
-  7  선택
-
-//
-
-tm4h-text <file:///T:/data/textData/tm4h_text/_book/>
-
-  *
-    Cover <file:///T:/data/textData/tm4h_text/_book/index.html>
-  *
-    Introduction <file:///T:/data/textData/tm4h_text/_book/intro.html>
-  *
-    1  도덕 <file:///T:/data/textData/tm4h_text/_book/ch01-moral.html>
-  *
-    2  권력 <file:///T:/data/textData/tm4h_text/_book/ch02-power.html>
-  *
-    3  매력 <file:///T:/data/textData/tm4h_text/_book/ch03-attract.html>
-  *
-    4  사랑 <file:///T:/data/textData/tm4h_text/_book/ch04-love.html>
-  *
-    5  욕망 <file:///T:/data/textData/tm4h_text/_book/ch05-desire.html>
-  *
-    6  자살 <file:///T:/data/textData/tm4h_text/_book/ch06-suicide.html>
-  *
-    7  선택 <file:///T:/data/textData/tm4h_text/_book/ch07-choice.html>
-  *
-    8  교육 <file:///T:/data/textData/tm4h_text/_book/ch08-edu.html>
-  *
-    9  오락 <file:///T:/data/textData/tm4h_text/_book/ch09-entertain.html>
-  *
-    10  행복 <file:///T:/data/textData/tm4h_text/_book/ch10-happiness.html>
-  *
-    Summary <file:///T:/data/textData/tm4h_text/_book/summary.html>
-  *
-    References <file:///T:/data/textData/tm4h_text/_book/references.html>
-
-
-    Table of contents
-
-  * 자유의지는 환상인가? <#자유의지는-환상인가>
-  * 7.1 운명의 힘 <#운명의-힘>
-      o 7.1.1 내 행동의 책임은? <#내-행동의-책임은>
-      o 7.1.2 선택의 주체는? <#선택의-주체는>
-  * 7.2 상황의 힘 <#상황의-힘>
-      o 7.2.1 소속감 <#소속감>
-      o 7.2.2 주어진 역할 <#주어진-역할>
-      o 7.2.3 권위의 역할 <#권위의-역할>
-      o 7.2.4 상황의 내면화 <#상황의-내면화>
-  * 7.3 자유의지란 환상 <#자유의지란-환상>
-  * 7.4 의식의 역할 <#의식의-역할>
-
-
   7  선택
 
 
@@ -503,12 +451,3 @@ of agency)이 필요하기 때문이다.
 마음의 훈련이 진정한 의미의 자유의지인 셈이다. 자유의지를 통해, 자유의지
 가 작동하지 않는 자동, 혹은 무의식의 영역을 만들어 낸다는 게 조금은 역설
 적이긴 하지만 말이다.
-
-/
-
-/ 6  자살 <file:///T:/data/textData/tm4h_text/_book/ch06-suicide.html>
-8  교육
-/
-
-/ <file:///T:/data/textData/tm4h_text/_book/ch08-edu.html>
-

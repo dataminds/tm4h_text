@@ -1,58 +1,3 @@
-
-  4  사랑
-
-//
-
-tm4h-text <https://tm4h-text.netlify.app/>
-
-  *
-    Cover <https://tm4h-text.netlify.app/>
-  *
-    Introduction <https://tm4h-text.netlify.app/intro>
-  *
-    1  도덕 <https://tm4h-text.netlify.app/ch01-moral>
-  *
-    2  권력 <https://tm4h-text.netlify.app/ch02-power>
-  *
-    3  매력 <https://tm4h-text.netlify.app/ch03-attract>
-  *
-    4  사랑 <https://tm4h-text.netlify.app/ch04-love>
-  *
-    5  욕망 <https://tm4h-text.netlify.app/ch05-desire>
-  *
-    6  자살 <https://tm4h-text.netlify.app/ch06-suicide>
-  *
-    7  선택 <https://tm4h-text.netlify.app/ch07-choice>
-  *
-    8  교육 <https://tm4h-text.netlify.app/ch08-edu>
-  *
-    9  오락 <https://tm4h-text.netlify.app/ch09-entertain>
-  *
-    10  행복 <https://tm4h-text.netlify.app/ch10-happiness>
-  *
-    Summary <https://tm4h-text.netlify.app/summary>
-  *
-    References <https://tm4h-text.netlify.app/references>
-
-
-    Table of contents
-
-  * 연애세포란게 있을까?
-    <https://tm4h-text.netlify.app/ch04-love#%EC%97%B0%EC%95%A0%EC%84%B8%ED%8F%AC%EB%9E%80%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C>
-  * 4.1 사랑이란?
-    <https://tm4h-text.netlify.app/ch04-love#%EC%82%AC%EB%9E%91%EC%9D%B4%EB%9E%80>
-      o 4.1.1 사랑의 과학
-        <https://tm4h-text.netlify.app/ch04-love#%EC%82%AC%EB%9E%91%EC%9D%98-%EA%B3%BC%ED%95%99>
-  * 4.2 연애세포?
-    <https://tm4h-text.netlify.app/ch04-love#%EC%97%B0%EC%95%A0%EC%84%B8%ED%8F%AC>
-  * 4.3 욕정과 사랑
-    <https://tm4h-text.netlify.app/ch04-love#%EC%9A%95%EC%A0%95%EA%B3%BC-%EC%82%AC%EB%9E%91>
-      o 4.3.1 낭만적 사랑의 증상
-        <https://tm4h-text.netlify.app/ch04-love#%EB%82%AD%EB%A7%8C%EC%A0%81-%EC%82%AC%EB%9E%91%EC%9D%98-%EC%A6%9D%EC%83%81>
-  * 4.4 사랑과 정
-    <https://tm4h-text.netlify.app/ch04-love#%EC%82%AC%EB%9E%91%EA%B3%BC-%EC%A0%95>
-
-
   4  사랑
 
 
@@ -364,12 +309,3 @@ Imaging)는 강력한 자기장을 발생시켜 신경세포에 조달되는 혈
 된다. 문제는 전전두엽에 몰려있는 관계의 신경세포들이다. 평소에 이 신경세
 포들을 단련시키지 않으면, 비실거린다. 이 놈들이 비실거리면, 연애하기 참
 힘들다. 즉, 연애 잘하려면 전전두엽을 단련해야 한다고 할 수 있다.
-
-/
-
-/ 3  매력 <https://tm4h-text.netlify.app/ch03-attract>
-5  욕망
-/
-
-/ <https://tm4h-text.netlify.app/ch05-desire>
-
