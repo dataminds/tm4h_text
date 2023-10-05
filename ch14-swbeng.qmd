@@ -38,7 +38,7 @@ For example, one of the neural correlates is the activity of the ventral striatu
 Therefore, it is important to use multiple methods and sources of data to capture the complexity and diversity of SWB. For example, combining self-report scales with behavioral indicators or physiological markers can provide a more comprehensive and accurate picture of SWB than using only one method. Also, comparing and contrasting SWB data from different groups or cultures can reveal similarities and differences in how people experience and evaluate their lives.
 
 
-## Definition by Diener(1994) pp. 543-544
+## Definition by Diener(1994)
 
 Diener, E. (1984). Subjective well-being. Psychological bulletin, 95(3), 542-575.
 
@@ -60,11 +60,14 @@ Second, subjective well-being includes positive measures. It is not just the abs
 
 Third, the subjective well-being measures typically include a global assessment of all aspects of a person’s life. Although affect or satisfaction within a certain domain may be assessed, the emphasis is usually placed on an integrated judgment of the person’s life. Nonetheless, measures may cover a period ranging from a few weeks to one’s entire life. There is no a priori way to decide what time period is best. Rather, researchers must uncover the correlates of SWB within the varying time frames.
 
+- from Diner(1994, pp. 543-544)
+
 
 ## Summary of Diener's 2000 Article
 
 Diener, E. (2000). Subjective well-being: The science of happiness and a proposal for a national index. American psychologist, 55(1), 34-43.
 
+### Why SWB 
 For thousands of years, people have wondered what a good life is. They have focused on things like loving others, pleasure, and self-insight. But another idea is that a good life is when people themselves think they are living a good life.
 
 This subjective definition of quality of life is democratic because it gives everyone the right to decide if their life is worthwhile. This approach to defining the good life is called subjective well-being (SWB), or happiness.
