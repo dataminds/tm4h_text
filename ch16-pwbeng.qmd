@@ -6,7 +6,7 @@ What is happiness? How can we be happy? These are some of the questions that man
 
 Psychological well-being (PWB) is a term that refers to the positive aspects of human functioning and experience. It involves various dimensions of human flourishing, such as self-acceptance, personal growth, purpose in life, environmental mastery, autonomy, and positive relations with others. PWB is more than just the absence of problems or symptoms; it is the presence of strengths and potentials.
 
-PWB can be seen as a function of happiness, because it involves the factors and processes that contribute to or enhance happiness. Happiness can be conceptualized as subjective well-being (SWB), which reflects how people evaluate and experience their own lives. SWB consists of three components: life satisfaction, positive affect, and negative affect. Life satisfaction is the cognitive component of SWB, which reflects how people judge their overall quality of life and satisfaction with specific domains. Positive affect and negative affect are the emotional components of SWB, which reflect how often and intensely people feel pleasant and unpleasant emotions and moods.
+PWB can be seen as a function of happiness, because it involves the factors and processes that contribute to or enhance happiness. 
 
 In this essay, I will explain what PWB is, how it is measured, what factors influence it, and what benefits it has. I will also give some examples and tips on how to improve your PWB and happiness.
 
@@ -18,86 +18,122 @@ PWB is a broad and multidimensional concept that includes six main dimensions: s
 
 Self-acceptance is the state of embracing yourself as you are, without judging or rejecting any aspect of yourself. It means acknowledging your strengths and weaknesses, your successes and failures, your virtues and flaws, and accepting them all with compassion and kindness.
 
-Some examples of self-acceptance are:
-
-- Forgiving yourself for your mistakes and learning from them, instead of dwelling on them or punishing yourself.
-- Appreciating your unique personality, talents, and abilities, instead of comparing yourself to others or wishing you were different.
-- Respecting your needs and preferences, and honoring them in your choices and actions, instead of suppressing or denying them.
-- Expressing your true feelings and opinions, without fear of rejection or criticism, while also being respectful of others.
-- Celebrating your achievements and successes, no matter how big or small, instead of dismissing or minimizing them.
-- Loving your body and appearance, without obsessing over flaws or imperfections, while also taking care of your health and well-being.
-
-
 ### Personal growth
 
 Personal growth reflects how people develop and realize their potential. It involves having a sense of continued improvement, learning new skills and knowledge, seeking new challenges and opportunities, and being open to change.
 
-Some examples of personal growth are:
-
-- Learning a new skill, such as playing an instrument, speaking a foreign language, or coding. This can enhance one's abilities, creativity, and confidence.
-- Focusing on one's physical well-being, such as exercising regularly, eating healthily, or sleeping well. This can improve one's mood, energy, and resilience.
-- Learning about different cultures, perspectives, and values. This can broaden one's horizons, increase one's empathy, and foster respect for diversity.
-- Working on one's patience, tolerance, and forgiveness with others. This can strengthen one's relationships, reduce conflict, and promote harmony.
-- Setting and pursuing meaningful goals that align with one's values and passions. This can provide direction, motivation, and purpose in life.
-
-
 ### Purpose in life
 
 - Purpose in life is the dimension of PWB that reflects how people find meaning and direction in their lives. It involves having a sense of coherence, goals, values, and motivation, and being able to pursue what matters to oneself.
-
-Purpose in life means having a sense of direction, meaning, and goals in life, as well as beliefs that give life purpose. Purpose in life is important for enhancing one’s motivation, resilience, and happiness.
-
-Some examples of purpose in life are:
-
-Pursuing a career or vocation that aligns with one’s values and passions, such as teaching, nursing, or art. This can provide a sense of fulfillment, contribution, and achievement.
-Engaging in activities or hobbies that bring joy and satisfaction, such as gardening, reading, or playing chess. This can provide a sense of enjoyment, creativity, and relaxation.
-Participating in causes or movements that make a positive difference in the world, such as volunteering, donating, or campaigning. This can provide a sense of altruism, solidarity, and impact.
-Exploring one’s spirituality or faith and finding connection with a higher power or a larger reality. This can provide a sense of transcendence, hope, and gratitude.
-Developing and nurturing relationships with family, friends, and community that are supportive, meaningful, and loving. This can provide a sense of belonging, intimacy, and love.
-
 
 
 ### Environmental mastery
 
 Environmental mastery reflects how people manage their external world. It involves having a sense of control, competence, and adaptability, and being able to create favorable conditions for oneself and others.
 
-Some examples of environmental mastery are:
-
-- Organizing and decluttering one's home or workspace, such as by following the KonMari method¹ or the 5S system². This can improve one's productivity, comfort, and well-being.
-- Setting and maintaining healthy boundaries with others, such as by saying no to unwanted requests, expressing one's needs and preferences, and avoiding toxic people. This can protect one's energy, autonomy, and self-respect.
-- Seeking and using resources that can help one achieve one's goals, such as by taking online courses³, reading books⁴, or joining clubs or communities⁵. This can expand one's knowledge, skills, and network.
-- Taking charge of one's finances, such as by budgeting, saving, investing, or earning extra income. This can increase one's security, freedom, and opportunities.
-- Making positive changes in one's environment, such as by planting trees, recycling waste, or supporting causes. This can make a difference in the world, help others in need, and develop a sense of purpose.
-
-
 
 ### Autonomy
 
 Autonomy reflects how people regulate their own behavior. It involves having a sense of independence, self-determination, and freedom, and being able to act according to one's own preferences and values.
 
-Some examples of autonomy are:
-
-- Setting boundaries in a relationship to protect your values. For instance, you might say no to your partner's request to do something that goes against your beliefs or preferences, and explain why it is important for you to stay true to yourself.
-- Getting up early each morning to go for a run because you enjoy doing it. This shows that you are motivated by your own interests and goals, rather than by external pressures or expectations. You also demonstrate your ability to manage your time and health effectively.
-- Signing up for a community softball team because you enjoy playing. This indicates that you are willing to explore new opportunities and experiences that match your passions and values. You also show your independence and confidence in joining a group of people who share your interests.
-- Making decisions about things you want by researching your options. For example, you might compare different models and prices of laptops before buying one that suits your needs and budget. This implies that you are capable of making informed and rational choices that reflect your personal preferences and circumstances.
-
 
 ### Positive relations with others
 
-- Positive relations with others reflects how people interact with other people. It involves having a sense of trust, intimacy, affection, and support, and being able to form and maintain satisfying and meaningful relationships.
-
-Some examples of positive relations with others are:
-
-- Maintaining a healthy and loving relationship with a spouse or partner, such as by communicating openly, expressing appreciation, and resolving conflicts constructively. This can provide a sense of intimacy, security, and happiness.
-- Developing and sustaining friendships with people who share your interests, values, and goals, such as by joining clubs, groups, or communities. This can provide a sense of belonging, companionship, and fun.
-- Being involved in your family’s life and activities, such as by spending quality time together, celebrating occasions, and helping each other. This can provide a sense of connection, loyalty, and love.
-- Showing kindness and compassion to strangers or people in need, such as by volunteering, donating, or offering help. This can provide a sense of altruism, generosity, and gratitude.
-- Collaborating and cooperating with colleagues or teammates on projects or tasks that are meaningful and challenging. This can provide a sense of achievement, recognition, and respect.
+ Positive relations with others reflects how people interact with other people. It involves having a sense of trust, intimacy, affection, and support, and being able to form and maintain satisfying and meaningful relationships.
 
 
+## Summary of Ryff & Singer(2008)
 
+Ryff, C. D., & Singer, B. H. (2008). Know thyself and become what you are: A eudaimonic approach to psychological well-being. Journal of happiness studies, 9, 13-39.
 
+### Aristotle and Eudaimonia: What Was He Saying?
+The Nichomachean Ethics is full of strange terms, bad grammar, and winding arguments. Johnston wondered if it was just notes from Aristotle's waste basket.
+But there are also sparkling insights and exquisitely distilled thoughts. Readers may be sustained by their appreciation for how hard Aristotle was thinking to answer the fundamental question of human existence: how should we live?
+He refused to rely on cant or religious dogma. Instead, he sought to build a reasoned argument with well-articulated propositions and carefully defined terms. It was demanding work, and even Aristotle occasionally ran out of steam, ending some chapters with phrases like "so much for these questions."
+Aristotle's objective was to formulate an ethical doctrine that would provide guidelines for how to live. He started by asking the big question: "What is the highest of all goods achievable by human action?"
+His answer is spot-on: happiness.
+But what is happiness?
+The many don't agree with the wise. The many think happiness is something simple and obvious, like pleasure, wealth, or honor.
+Aristotle argued that happiness is more complex than that. It is a state of well-being that comes from living in accordance with virtue.
+Aristotle spent much of the Ethics disabusing the reader of the idea that happiness is found in satisfying appetites, making money, or gaining political power. He reminded us that "serious things are better than laughable things."
+He then offered a dramatically different alternative: the highest human good is "activity of the soul in accordance with virtue."
+Aristotle defined virtue as a kind of mean, aiming at what is intermediate. For example, courage is the middle ground between cowardice and recklessness. Generosity is the middle ground between stinginess and extravagance.
+Aristotle elaborated many other examples of the appropriate middle ground. He argued that virtue is a state of character concerned with choice in which deliberate actions are taken to avoid excess or deficiency.
+Aristotle believed that the good life is not just about achieving the mean in all modes of conduct. It is about self-realization, played out individually, each according to his or her own disposition and talent.
+Aristotle was concerned with action, not just abstract ideas. He believed that we become just by doing just acts, and temperate by doing temperate acts.
+Aristotle recognized that other needs must be met as well if we are to achieve the best that is within us, such as health and food. However, he also reminded us that we can do noble acts without great wealth or power.
+Aristotle's essays covered many more topics, but his essential message is that the good life is about living in accordance with virtue and achieving our full potential.
+David Norton's Personal Destinies: A Philosophy of Ethical Individualism is the best distillation of Hellenic eudaimonism in modern scholarship.
+Norton begins by praising the Athenians, especially their "coherent sensibility" (p. 31). He then describes eudaimonism as an ethical doctrine in which each person must know and live in truth to their daimon (a kind of spirit given to all people at birth). By doing so, they can progressively actualize their excellence (arete), which is consistent with their innate potential.
+In Norton's words, eudaimonism is "meaningful living conditioned upon self-truth and self-responsibility" (p. xi). It is the essence of the two great Greek imperatives: first, to "know thyself" (inscribed on the temple of Apollo at Delphi), and second, to "choose yourself" or "become what you are" (p. 16).
+Norton also reminds us that the Hellenic scholars did not believe all human beings had the potential for excellence in the form of daimons. They exempted slaves, some women, and perhaps artisans and tradesmen. Additionally, the Hellenic conception did not give all daimons equal worth; they were arranged hierarchically, so that in their final perfection, some individuals would be superior to others.
+Norton's book also traces the links between eudaimonism and other philosophical views (Kierkegaard, Nietzsche, Sartre) and psychological accounts of self-actualization (Maslow).
+
+### THEORETICAL INTERMEDIARIES: ELABORATING MEANINGS OF HUMAN FULFILLMENT
+Aristotle said the ultimate aim in life is to realize one's true potential. He said little about how to do this, so I drew on my training as a psychologist and other sources.
+I learned about the developmental tasks and challenges people face at different life stages. I learned that finding meaning and purpose in life can be difficult in a world that often seems meaningless or horrific.
+I also learned from clinical psychology, which sometimes defines mental health in positive terms rather than focusing on dysfunction.
+Finally, I learned from two utilitarian philosophers, John Stuart Mill and Bertrand Russell, who agreed with Aristotle that subjective feelings of happiness are not the ultimate goal.
+Mill said that happiness is only found when we pursue something other than happiness itself, such as the happiness of others, the improvement of mankind, or an art or pursuit that we love.
+Russell said that happiness is not something that just happens to us. We have to work for it. He called his book The Conquest of Happiness.
+For Russell, happiness depended most importantly on having active interest and engagement in life, and on having meaningful bonds of love with significant others.
+I combined all of these perspectives into a coherent whole. I identified six key dimensions of psychological well-being (PWB):
+1. Self-acceptance 2. Positive relations with others 3. Personal growth 4. Purpose in life 5. Environmental mastery 6. Autonomy
+#### Self-acceptance 
+The Greeks said we should know ourselves. This means understanding our own actions, motivations, and feelings. But many other thinkers have said that we also need to have positive self-regard.
+Positive self-regard is a central feature of mental health, self-actualization, optimal functioning, and maturity. It is also important to accept our past and our shadow side.
+Erikson and Jung's ideas about ego integrity and individuation both emphasize a kind of self-acceptance that is richer than standard views of self-esteem. It is a long-term self-evaluation that includes both personal strengths and weaknesses.
+#### Positive relations with others 
+All of these thinkers agree that relationships are essential to a good life. Aristotle wrote about friendship and love, Mill wrote about his great love, and Russell saw affection as one of the two great sources of happiness.
+Jahoda said the ability to love is central to mental health, and Maslow said self-actualizers have strong feelings of empathy and affection for all human beings.
+Warm relating to others is also a sign of maturity, according to Allport. Erikson's stages of adult development emphasize the importance of close unions and guiding others.
+And philosophers say that love, empathy, and affection are essential for a well-lived life.
+From a cultural perspective, there is near universal agreement that relationships are key to how to live.
+#### Personal growth 
+Personal growth is the part of well-being that is closest to Aristotle's eudaimonia. It is about reaching your full potential.
+Self-actualization, as described by Maslow and Norton, is about realizing your personal potential. Jahoda's positive conception of mental health also emphasizes this.
+Rogers described the fully functioning person as someone who is open to experience and continually developing. Life-span theories also emphasize continued growth and the confronting of new challenges at different stages of life.
+#### Purpose in life 
+This dimension of well-being is about finding meaning and purpose in life, even in the face of adversity.
+Frankl's logotherapy helped people find meaning and purpose in their suffering. Sartre said that living authentically means finding purpose in life.
+While these views focus on finding meaning in the darkness of life, other thinkers have also emphasized the importance of purpose. Russell said that zest is about actively engaging in life and reflecting on it. Jahoda said that mental health includes having beliefs that give you a sense of purpose and meaning in life. Allport said that maturity includes having a clear understanding of life's purpose.
+Life-span developmental theories also talk about the changing purposes or goals that characterize different life stages. For example, people may focus on being creative and productive in midlife, and on emotional integration in later life.
+#### Environmental mastery 
+Jahoda said that mental health includes the ability to choose or create an environment that suits your needs.
+Life-span developmental theories also emphasize the importance of being able to control your environment and act on the world around you.
+Allport said that maturity includes the ability to extend the self, which means being able to participate in important activities that go beyond you.
+Together, these perspectives suggest that actively participating in and mastering your environment are important parts of a well-lived life.
+Environmental mastery is different from other psychological constructs, such as sense of control and self-efficacy, because it emphasizes finding or creating a surrounding context that suits your personal needs and capacities.
+#### Autonomy
+Many of the ideas in this model of well-being emphasize self-determination, independence, and inner control of behavior.
+Self-actualizers are described as being autonomous and resisting cultural influences. Fully functioning people evaluate themselves by their own standards, not by what others think.
+Individuation means breaking free from convention and following your own path. Living in "bad faith" means following dogma or dictates of others instead of living authentically.
+Life-span developmentalists wrote about the importance of turning inward in later years and gaining freedom from social norms.
+This aspect of well-being is the most Western of all.
+
+### SUMMARY: CONSTRUCTIVE TENSIONS AND FINDING THAT WHICH IS INTERMEDIATE
+We have revisited the philosophical and theoretical roots of eudaimonia to clarify how its central ideas infuse the study of human well-being. Whether we have succeeded or fully utilized these ideas to advance theoretical and empirical understanding of self-realization and human fulfillment is for others to evaluate. We also need thoughtful evaluation of how our perspective overlaps with, or is distinctive from, other eudaimonic theories.
+We conclude with observations about the challenges of studying human well-being. One challenge is the balance between self and other. In some circles, the human potential movement itself was seen as little more than an arena of narcissistic self-exploration. Others have argued that preoccupations with personal growth can cripple basic social institutions. This tension is inherent in any effort to formulate ultimate ideals for human conduct. Is there a single formulation that applies to our species as a whole, or are there multiple forms of eudaimonic well-being, nurtured by different societal contexts and culturally distinct ways of being?
+These challenging questions draw on the values of those who study human well-being. We should avoid extremes, whether it be a kind of well-being that is so self-centered that it leaves no room for human connection and the social good, or a version that is so focused on responsibilities and duties outside the self that inherent talents and capacities are neither recognized nor developed.
+We also need to avoid rigid formulations of how selves are realized. We need to better understand the levels of well-being that contribute to both flourishing individual lives and optimally functioning social institutions.
+Questions such as what constitutes too little, or too much, life purpose? Or, what is too little, or not enough, self-knowledge? are timely for the scientific study of human well-being, where current inquiry is now poised to predict important empirical outcomes based on reported levels of eudaimonic well-being.
+
+### Deﬁnitions of theory-guided dimensions of well-being
+#### Self-acceptance
+- High scorer: Possesses a positive attitude toward the self; acknowledges and accepts multiple aspects of self including good and bad qualities; feels positive about past life  
+- Low Scorer: Feels dissatisﬁed with self; is disappointed with what has occurred in past life; is troubled about certain personal qualities; wishes to be diﬀerent than what he or she is
+#### Positive relations with others
+- High scorer: Has warm, satisfying, trusting relationships with others; is concerned about the welfare of other others; capable of strong empathy, aﬀection, and intimacy; understands give and take of human relationships   
+- Low scorer: Has few close, trusting relationships with others; ﬁnds it diﬃcult to be warm, open, and concerned about others; is isolated and frustrated in interpersonal relationships; not willing to make compromises to sustain important ties with others
+#### Personal growth
+- High scorer: Has a feeling of continued development; sees self as growing and expending; is open to new experiences; has sense of realizing his or her potential; sees improvement in self and behavior over time; is changing in ways that reﬂect more self-knowledge and eﬀectiveness  
+- Low scorer: Has a sense of personal stagnation; lacks sense of improvement or expansion overtime; feels bored and uninterested with life; feels unable to develop new attitudes or behaviors
+#### Purpose in life
+- High scorer: Has goals in life and a sense of directedness; feels there is meaning to present and past life; holds beliefs that give life purpose; has aims and objectives for living  
+- Low scorer: Lacks a sense of meaning in life; has few goals or aims; lacks sense of direction; does not see purpose of past life; has no outlook or beliefs that give life meaning
+#### Environmental mastery
+- High scorer: Has a sense of mastery and competence in managing the environment; controls complex array of external activities; makes eﬀective use of surrounding opportunities; able to choose or create contexts suitable to personal needs and values  
+- Low scorer: Has diﬃculty managing everyday aﬀairs; feels unable to change or improve surrounding context; is unaware of surrounding opportunities; lacks sense of control overexternal world
 
 
 

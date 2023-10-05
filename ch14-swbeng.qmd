@@ -10,7 +10,7 @@ SWB can be used as an indicator of happiness, because it captures people's own p
 
 In this essay, I will explain what SWB is, how it is measured, and what are the advantages and disadvantages of using it as an indicator of happiness. I will also give some examples and tips on how to improve your SWB and happiness.
 
-## What Is SWB?
+### What Is SWB?
 
 SWB is a broad and multidimensional concept that includes three main components: life satisfaction, positive affect, and negative affect.
 
@@ -19,7 +19,7 @@ SWB is a broad and multidimensional concept that includes three main components:
 
 SWB is subjective, because it depends on people's own perceptions and standards, not on objective or external criteria. For example, two people might have the same level of education, but one might have more life satisfaction than the other, because they have different aspirations or interests. SWB is also dynamic, because it can change over time and across different situations. For example, your positive affect might increase after watching a funny movie, but it might decrease after having an argument with your friend.
 
-## How Is SWB Measured?
+### How Is SWB Measured?
 
 SWB is subjective, because it depends on people's own perceptions and standards, not on objective or external criteria. For example, two people might have the same level of education, but one might have more life satisfaction than the other, because they have different aspirations or interests. SWB is also dynamic, because it can change over time and across different situations. For example, your positive affect might increase after watching a funny movie, but it might decrease after having an argument with your friend.   
 
@@ -36,5 +36,141 @@ Measuring SWB is not an easy task, because it involves many challenges and limit
 For example, one of the neural correlates is the activity of the ventral striatum, which is a brain region that is associated with reward and motivation and can indicate life satisfaction . Neural correlates have the advantage of being more direct and less affected by external factors than self-report scales, behavioral indicators, or physiological markers. However, they also have some disadvantages, such as being complex and costly, and being limited by ethical issues, technical challenges, etc.
 
 Therefore, it is important to use multiple methods and sources of data to capture the complexity and diversity of SWB. For example, combining self-report scales with behavioral indicators or physiological markers can provide a more comprehensive and accurate picture of SWB than using only one method. Also, comparing and contrasting SWB data from different groups or cultures can reveal similarities and differences in how people experience and evaluate their lives.
+
+
+## Definition by Diener(1994) pp. 543-544
+
+Diener, E. (1984). Subjective well-being. Psychological bulletin, 95(3), 542-575.
+
+### Definitions of Subjective Well-Being
+
+Many philosophers and social scientists have concerned themselves with defining happiness or well-being. Definitions of well-being and happiness can be grouped into three categories.
+
+First, well-being has been defined by external criteria such as virtue or holiness. Coan (1977) reviewed the varying conceptions of the ideal condition that have held sway in different cultures and eras. In normative definitions happiness is not thought of as a subjective state, but rather as possessing some desirable quality. Such definitions are normative because they define what is desirable. Thus, when Aristotle wrote that eudaemonia is gained mainly by leading a virtuous life, he did not mean that virtue leads to feelings of joy. Rather, Aristotle was prescribing virtue as the normative standard against which people’s lives can be judged. Therefore, eudaemonia is not happiness in the modem senses of the word, but a desirable state judged from a particular value framework. The criterion for happiness of this type is not the actor’s subjective judgment, but the value framework of the observer. A related meaning of happiness given by Tatarkiewicz (1976) is success, which must be defined relative to some standard.
+
+Second, social scientists have focused on the question of what leads people to evaluate their lives in positive terms. This definition of subjective well-being has come to be labeled life satisfaction and relies on the standards of the respondent to determine what is the good life. Although well-being from a subjective perspective has become a popular idea in the last century, this concept can be traced back several millennia. For example, Marcus Aurelius wrote that “no man is happy who does not think himself so.” Shin and Johnson (1978) have defined this form of happiness as “a global assessment of a person’s quality of life according to his own chosen criteria” (p. 478). Andrews and Withey (1976) found that over 99% of their respondents had previously made such an assessment of their lives. A related set of definitions of happiness is that it is the harmonious satisfaction of one’s desires and goals (Chekola, 1975). If one is concerned with the person’s assessment of this, then it clearly falls within the realm of subjective well-being and is an idea related to satisfaction.
+
+A third meaning of happiness comes closest to the way the term is used in everyday discourse—as denoting a preponderance of positive affect over negative affect (Bradbum, 1969). This definition of subjective well-being thus stresses pleasant emotional experience. This may mean either that the person is experiencing mostly pleasant emotions during this period of life or that the person is predisposed to such emotions, whether or not he or she is currently experiencing them.
+
+Satisfaction with life and positive affect are both studied by subjective well-being researchers. How these two components relate to one another is an empirical question, not one of definition. Unfortunately, terms like happiness that have been used frequently in daily discourse will necessarily have fuzzy and somewhat different meanings. Nevertheless, as measurement and other work proceeds, the most scientifically useful concepts will be those that can be measured and show, within a theoretical framework, interesting relationships to other variables.
+
+The area of subjective well-being has three hallmarks. First, it is subjective. According to Campbell (1976), it resides within the experience of the individual. Notably absent from definitions of SWB are necessary objective conditions such as health, comfort, virtue, or wealth (Kammann, 1983). Although such conditions are seen as potential influences on SWB, they are not seen as an inherent and necessary part of it.
+
+Second, subjective well-being includes positive measures. It is not just the absence of negative factors, as is true of most measures of mental health. However, the relationship between positive and negative indices is not completely understood.
+
+Third, the subjective well-being measures typically include a global assessment of all aspects of a person’s life. Although affect or satisfaction within a certain domain may be assessed, the emphasis is usually placed on an integrated judgment of the person’s life. Nonetheless, measures may cover a period ranging from a few weeks to one’s entire life. There is no a priori way to decide what time period is best. Rather, researchers must uncover the correlates of SWB within the varying time frames.
+
+
+## Summary of Diener's 2000 Article
+
+Diener, E. (2000). Subjective well-being: The science of happiness and a proposal for a national index. American psychologist, 55(1), 34-43.
+
+For thousands of years, people have wondered what a good life is. They have focused on things like loving others, pleasure, and self-insight. But another idea is that a good life is when people themselves think they are living a good life.
+
+This subjective definition of quality of life is democratic because it gives everyone the right to decide if their life is worthwhile. This approach to defining the good life is called subjective well-being (SWB), or happiness.
+
+SWB refers to people's evaluations of their lives, both emotional and cognitive. People have high SWB when they feel more pleasant emotions than unpleasant ones, when they are engaged in interesting activities, when they experience more pleasures than pains, and when they are satisfied with their lives.
+
+There are other things that make a life valuable and mentally healthy, but the field of SWB focuses on people's own evaluations of their lives.
+
+Throughout the world, people are giving more importance to SWB. Inglehart (1990) said that as people's basic needs are met, they move to a phase where they are concerned with self-fulfillment.
+
+Even in societies that are not fully Westernized, students said that happiness and life satisfaction were very important. They thought about them often. Although people in the most Westernized nations gave SWB more importance, mean levels of concern about happiness were high in all of the countries surveyed.
+
+Among the total sample, only 6% of respondents rated money as more important than happiness. Fully 69% rated happiness at the top of the importance scale, and only 1% claimed to have never thought about it. Of the respondents, 62% rated life satisfaction at the top of the importance scale, and only 2% reported never having thought about it.
+
+As people throughout the world fulfill more of their basic material needs, SWB is likely to become an even more valued goal. Thus, although SWB is not enough for the good life, it seems to be increasingly necessary for it.
+
+### Defining and Measuring SWB
+People react to events with emotions. They also judge their lives and important areas like marriage and work. There are several parts of SWB: life satisfaction, satisfaction with important areas, positive emotions, and low negative emotions. Early SWB research measured each part with a single question. For example, Andrews and Withey (1976) asked people how they felt about their lives on a scale of 1 to 7. Newer SWB measures use multiple questions. For example, the PANAS measures positive and negative emotions with 10 questions each, and the Satisfaction With Life Scale measures life satisfaction with questions like "In most ways my life is close to my ideal." These scales are reliable, but they are only one way to measure SWB.
+
+Researchers have used new methods to measure long-term feelings. For example, they use ESM to assess SWB at random times in people's everyday lives.
+
+Studies found that different SWB measures correlate with each other, and that low life satisfaction predicts suicide. SWB measures also differ from other related constructs, such as optimism.
+
+However, SWB measures can be biased. For example, people's mood and the order of items can influence their responses. Situational factors usually have less influence than long-term factors. People may also respond in socially desirable ways.
+One-time self-reports of SWB have some validity, but they can be biased by mood and other factors. Researchers should combine other types of measures with one-time scales.
+
+The naturalistic ESM method can circumvent some biases. It records people's moods at random times in their natural life settings, providing a more fine-grained record of their experience of well-being. Kahneman argued that ESM ought to be the primary measure of SWB.
+
+Other methods, such as physiological measures, reports by informants, and memory and reaction-time measures, should also be included in assessments of SWB. SWB is subjective, but experience can manifest itself in physiology and other channels.
+A battery of diverse measures will produce the most informative composite. Different types of measures have complementary strengths. For example, the memory measure developed by Sandvik et al. (1993) can assess individual differences in the relative accessibility of memories for good and bad events.
+
+Researchers need to measure both pleasant and unpleasant affect, which are major components of SWB. These two types of emotions are distinct and correlate with different variables. Good life events and extraversion correlate with pleasant emotions, while neuroticism and negative life events correlate with negative emotions. Researchers should measure pleasant and unpleasant affect separately, as different conclusions emerge about their antecedents and consequences.
+Combining positive and negative affect into a global "happiness" score can lose valuable information.
+
+We might think that the happiest people are those who experience intense happiness most of the time. However, research shows that the frequency of pleasant emotions is a better predictor of happiness than their intensity. Feeling pleasant emotions most of the time and infrequently experiencing unpleasant emotions is sufficient for high reports of happiness.
+
+Most people are above neutral in mood most of the time, but intense positive moments are rare even among the happiest individuals. Happy people report mild-to-moderate pleasant emotions most of the time.
+
+If people seek ecstasy much of the time, they are likely to be disappointed. They may even move on to the next relationship or job, seeking intense levels of happiness that are rarely long-lasting and not necessary for happiness.
+Intense experiences are not the cornerstone of a happy life. Highly pleasurable experiences may serve as a contrast point against which to compare other positive experiences, thus making the mild events less pleasurable.
+
+### Processes Underlying SWB
+People are on a "hedonic treadmill." As they achieve more, their expectations rise. They soon adapt to the new level, and it no longer makes them happy. People are unhappy when they first experience misfortune, but they soon adapt and it no longer makes them unhappy.
+
+Studies have shown that people adapt to life changes quickly. For example, people with spinal cord injuries are extremely unhappy immediately after the accident, but they quickly begin to adapt. Within eight weeks, they experience more positive emotions than negative emotions.
+
+Many life circumstances correlate with SWB at only modest levels. This also supports the idea of adaptation. For example, income, number of friends, religious faith, intelligence, and education together account for only 15% of the variance in happiness. Rich people are slightly happier than poor people, but the correlation is small. Physical attractiveness predicts only small amounts of variance in respondents' reports of pleasant affect, unpleasant affect, and life satisfaction. Objective physical health, even among the elderly, is barely correlated with SWB.
+
+People adapt to most conditions very quickly. Studies have shown that the effects of many major life events lose their impact on SWB in less than three months.
+
+One study found that people's mood returned to baseline within two days of receiving good news. Another study found that marriage and widowhood were still producing heightened and lowered SWB, respectively, six to eight months after the event.
+
+Income has risen dramatically in many nations since World War II, but SWB has been virtually flat in the United States and other highly developed countries. This suggests that people's desires increase as their incomes rise, and they therefore adapt to higher levels of income, with no net increase in SWB.
+
+Brickman and Campbell's theory has been refined to suggest that people may not adapt back to neutrality but may instead return to a positive set point. This means that humans are predisposed to feel predominantly pleasant affect if nothing bad is happening.
+
+People return to a baseline level of happiness, which is influenced by their personality. Personality traits are one of the strongest factors influencing long-term happiness.
+
+Studies on adopted twins show that about half of the variance in happiness is due to genetics. Temperament emerges early in life and is stable over time.
+
+Research has shown that happiness is not just a result of situational factors. People's moods fluctuate, but there is a strong degree of stability in mean levels of mood experienced over time and across life circumstances.
+
+Laboratory studies also show that happy and unhappy people react differently to the same stimuli. For example, extraverted people respond more intensely to positive stimuli, while neurotic people respond more intensely to negative stimuli.
+
+The dynamic equilibrium model of happiness combines adaptation with personality. People maintain levels of pleasant and unpleasant affect that are determined by their personalities. Events can move people temporarily away from their baselines, but over time they return to them.
+
+The separate baselines for positive and negative affect are determined by personality predispositions to extraversion and neuroticism, respectively. For example, extraversion correlates with positive affect in virtually all countries.
+Events and circumstances do influence happiness, but in the long-term, personality will also exert itself.
+
+Scientists are trying to figure out why people adapt to conditions. One theory is that people's satisfaction with events depends on the distribution of events they have experienced in the past. Another theory is that people in good circumstances may require greater levels of pleasure to declare themselves happy.
+
+Another reason people may adapt is that they change their expectations and goals. People feel better on days when they make progress toward goals they value highly. People with different personalities may also have different goals. For example, high sensation seekers may prefer days with pleasure and high arousal emotions, while low sensation seekers may prefer contentment.
+
+Although the reasons for adaptation are not fully understood, it is clear that people do not habituate completely to all conditions. People adapt quickly to some circumstances (e.g., imprisonment), adapt slowly to other conditions (e.g., the death of a loved one), and adapt little or not at all to other conditions (e.g., noise and sex). There are also substantial differences in SWB between nations, even though people have had ample time to adapt to the circumstances in these societies. This suggests that personality is an important contributor to long-term levels of well-being, but circumstances also have an influence.
+
+### National and Cultural Patterns of SWB
+National income and SWB correlate. Wealthier nations have higher levels of well-being. This may be because they are more likely to fulfill basic human needs and have better human-rights records.
+
+Some countries are unexpectedly high or low in life satisfaction, even after income is controlled. This may be due to cultural factors, political turmoil, or expectations.
+
+The poorest nations in the survey did not show the extremely low SWB responses that characterized earlier studies. This may be because levels of income are rising in these nations and people there have lower expectations.
+
+Much variance in SWB is accounted for by the wealth of nations, but culture and political turmoil also have an influence.
+
+Happiness has not increased regularly over the years in the nations where repeated surveys have been conducted, even though income has increased dramatically in most of these countries. This may be because people's desires increase as income increases.
+
+Most people around the world now want many of the things that people in the West possess, and their life satisfaction is influenced to some degree by whether they are making progress toward obtaining these goods.
+
+Life satisfaction correlates differently with other variables in different cultures. Individualistic cultures value the individual, while collectivist cultures value the group.
+
+Self-esteem correlates more strongly with life satisfaction in individualistic than in collectivist societies.
+
+People in individualistic cultures rely on their feelings when making life-satisfaction judgments, while people in collectivist cultures rely on norms and social appraisals.
+
+Individualistic nations have higher life satisfaction and suicide rates, while collectivist nations have lower life satisfaction and divorce rates.
+
+This may be because people in individualistic societies are more likely to change their circumstances when they are dissatisfied, while people in collectivist societies are more likely to remain in bad situations for the sake of others.
+The pattern of SWB findings across cultures may also be explained in part by levels of social support. Collectivist societies have more extended families, which provide greater social support in troubled times.
+
+It is a challenge for both individualistic and collectivist cultures to allow individuals the freedom to choose lives that are rewarding and spouses that are to their liking, and nevertheless ensure that families are cohesive enough to offer stable support.
+
+### Summary
+SWB researchers used to focus on who is happy. Now they focus on when and why people are happy.
+Temperament and personality are powerful factors influencing SWB. People adapt to some degree to good and bad conditions, but not completely. People's values and goals seem to be tied to what events are perceived as good and bad. Goal change may be an inherent component of adaptation.
+
+Cultural and societal factors influence SWB in several ways. Countries that can meet people's basic needs have higher levels of SWB. Culture can also alter the correlates of SWB by influencing people's goals and values. Variations in cultural influences on mean levels of SWB may be due to variations in optimism and positivity, social support, coping patterns, and the degree of regulation of individual desires.
+
 
 
