@@ -14,20 +14,30 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    
-    - ch01-moral.qmd
-    - ch02-power.qmd
-    - ch03-attract.qmd
-    - ch04-love.qmd
-    - ch05-desire.qmd
-    - ch06-suicide.qmd
-    - ch07-choice.qmd
-    - ch08-edu.qmd
-    - ch09-entertain.qmd
-    - ch10-happiness.qmd
-    
-    - summary.qmd
-    - references.qmd
+    - part: part1.qmd
+      chapters:
+        - ch01-moral.qmd
+        - ch02-power.qmd
+        - ch03-attract.qmd
+        - ch04-love.qmd
+        - ch05-desire.qmd
+        - ch06-suicide.qmd
+        - ch07-choice.qmd
+        - ch08-edu.qmd
+        - ch09-entertain.qmd
+        - ch10-happiness.qmd
+    - part: part2.qmd
+      chapters:
+        - ch11-happiness2.qmd
+        - ch12-happiness2eng.qmd
+        - ch13-swb.qmd
+        - ch14-swbeng.qmd
+        - ch15-pwb.qmd
+        - ch16-pwbeng.qmd
+    - part: part3.qmd
+      chapters: 
+        - summary.qmd
+        - references.qmd
 
 page-navigation: true      
 
