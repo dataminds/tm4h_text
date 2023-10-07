@@ -1,13 +1,13 @@
-# 행복론
+# 2부: 행복 이해하기  
 
-- 11장: 행복의 기능과 지표 
+- 11장a: 행복의 기능과 지표 
 
-- 12장: Functions and Indicators of Happiness 
+- 11장b: Functions and Indicators of Happiness 
 
-- 13장: 행복의 지표: 주관적 안녕감  
+- 12장a: 행복의 지표: 주관적 안녕감  
 
-- 14장: Happiness Indicator: Subjective Well-being 
+- 12장b: Happiness Indicator: Subjective Well-being 
 
-- 15장: 행복의 기능: 심리적 안녕감
+- 13장a: 행복의 기능: 심리적 안녕감
 
-- 16장: Happiness Function: Psychological Well-being 
+- 13장b: Happiness Function: Psychological Well-being 

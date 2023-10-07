@@ -1,16 +1,24 @@
 project:
   type: book
-
+  
 book:
-  title: "tm4h-text"
+  title: "행복방법론"
   author: "안도현"
-  search: true
   date: "2023. 9. 17."
+#  image: image1.jpg
+
+#  navbar: 
+#    search: true
+#    right:
+#    - icon: guthub
+#      href: https://github.com
+#    aria-label: Github
   
   sidebar:
     style: docked
     background: light
-    
+    search: true
+
   chapters:
     - index.qmd
     - intro.qmd
@@ -29,11 +37,11 @@ book:
     - part: part2.qmd
       chapters:
         - ch11-happiness2.qmd
-        - ch12-happiness2eng.qmd
-        - ch13-swb.qmd
-        - ch14-swbeng.qmd
-        - ch15-pwb.qmd
-        - ch16-pwbeng.qmd
+        #- ch11b-happiness2eng.qmd
+        - ch12-swb.qmd
+        #- ch12b-swbeng.qmd
+        - ch13-pwb.qmd
+        #- ch13b-pwbeng.qmd
     - part: part3.qmd
       chapters: 
         - summary.qmd
@@ -49,7 +57,7 @@ bibliography: references.bib
 format:
   html:
     theme: zephyr
-    cover-image: cover.png
+  #  cover-image: cover1.jpg
   #  code-fold: true
   #  code-tools: true
   #  code-block-border-left: true

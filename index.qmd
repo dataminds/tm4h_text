@@ -1,26 +1,24 @@
-# Cover {.unnumbered}
+#  {.unnumbered}
 
-# tm4h-text.netlify.com
+![Intellectual Humility and Collective Intelligence](cover1.jpg){fig-alt="지적겸손과 집단지성"}
 
-인용:
+## 텍스트마이닝으로 배우는 행복 텍스트 {.unnumbered}
 
-안도현 (2023) 텍스트마이닝으로 배우는 행복 텍스트, tm4h_text.netlify.com
+- 텍스트마이닝으로 배우는 행복: tm4h.netlify.com 
 
-## 저자
+- tm4h-text.netlify.com
 
-### Ahn, Dohyun (안도현)
+- 인용: 안도현 (2023) 행복방법론: 텍스트마이닝으로 배우는 행복 텍스트, tm4h_text.netlify.com
 
--   Professor\@Dept. of Journalism & PR, Jeju National University
+## 저자: 안도현 {.unnumbered}
 
--   Joint Appointment\@Grad. Sch. of Data Science for Sustainable Growth
+제주대학교 언론홍보학과 교수\
+대학원지속성장데이터사이언스학부 겸무\
+63243, 제주시, 제주대학로 102, 사회과학대학 2331-2
 
--   Email: dohyun\@SocialBrain.kr \| dahn\@jejunu.ac.kr
+-   전자우편: d a t a \@ m i n d s . k r
 
--   Address: 2331-2 Social Science Bldg., 102 Jejudaehak-ro, Jeju-si, 63243, Republic of Korea
-
--   Phone: +82-64-754-2946 Fax: +82-64-702-4240
-
--   홈페이지: socialbrain.kr minds.kr
+-   홈페이지: [socialbrain.kr](socialbrain.kr) [minds.kr](minds.kr)
 
 <div>
 
