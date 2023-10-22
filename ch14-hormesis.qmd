@@ -1,0 +1,159 @@
+# 호메시스
+
+## 적응 반응{.unnumbered}
+
+## Rutledge
+
+Rutledge, T. (2022.12.1)
+"When Stress Is Good For You: The Hormesis Effect: You know stress can be a vice. Here is how to make it a virtue" Psychology Today https://www.psychologytoday.com/us/blog/the-healthy-journey/202212/when-stress-is-good-for-you-the-hormesis-effect
+
+빙챗 
+
+This is a summary of the article opened on the left side in English and Korean:
+
+English:
+
+- The article explains the concept of **mental hormesis**, which is the idea that **mild or moderate levels of mental stress** can improve cognitive function, resilience, and mental health.
+- The article compares mental hormesis to **biological hormesis**, which is the process by which certain stressors can have **beneficial effects** on the organism if they are applied in the right dose and frequency.
+- The article gives some examples of mental stressors that may induce hormesis, such as **learning new skills, solving puzzles, playing games, meditating, or facing challenges**.
+- The article also discusses the potential benefits of mental hormesis, such as preventing or delaying **neurodegenerative diseases**, increasing **psychological well-being and happiness**, and enhancing the brain's ability to **adapt and repair itself**.
+- The article warns that not all mental stress is beneficial, and that too much or too little stress can have **negative effects** on the brain and mental health. Therefore, it is important to find the **optimal level of mental stress** that suits one's needs and goals.
+
+Korean:
+
+- 이 기사는 **정신 호르메시스**라는 개념을 설명합니다. 정신 호르메시스란 **약하거나 적당한 수준의 정신적 스트레스**가 인지 기능, 회복력, 그리고 정신 건강을 향상시킬 수 있다는 생각입니다.
+- 이 기사는 정신 호르메시스를 **생물학적 호르메시스**와 비교합니다. 생물학적 호르메시스란 일정한 용량과 빈도로 적용되면 생물체에게 **유익한 효과**를 가져다주는 스트레스 요인들에 의해 일어나는 과정입니다.
+- 이 기사는 호르메시스를 유발할 수 있는 정신적 스트레스 요인들의 예를 들어줍니다. 예를 들면 **새로운 기술을 배우기, 퍼즐을 풀기, 게임하기, 명상하기, 도전에 직면하기** 등이 있습니다.
+- 이 기사는 또한 정신 호르메시스의 잠재적 이익들에 대해 논합니다. 예를 들면 **신경 퇴행성 질환**을 예방하거나 지연시키기, **심리적 안녕과 행복**을 증가시키기, 그리고 뇌의 **적응과 수리 능력**을 강화시키기 등이 있습니다.
+- 이 기사는 모든 정신적 스트레스가 유익한 것은 아니며, 너무 많거나 적은 스트레스가 뇌와 정신 건강에 **부정적인 영향**을 미칠 수 있다고 경고합니다. 따라서 자신의 필요와 목표에 맞는 **최적의 정신적 스트레스 수준**을 찾는 것이 중요하다고 말합니다.
+
+그림
+
+THE STRESS-HORMESIS SPECTRUM
+
+Insufficient stress
+Sedentary lifestyle, nutrient deficiency, intellectual deprivation
+Atrophic loss of health, strength, function, cognition
+
+Hormetic stress
+Exercise, nutrition, fasting, heat & cold exposure, sunlight, intellectual challenge
+Adaptation that improves health, strength, function, cognition 
+
+Excess stress
+Overtraining, excess nutrition, substance abuse, burnout 
+Overload of stress intensity or duration that harms health, strength, function, cognition
+
+스트레스 호르몬 스펙트럼
+
+불충분한 스트레스
+앉아서 생활하는 생활 방식, 영양 결핍, 지적 결핍
+건강, 힘, 기능, 인지의 위축성 손실
+
+적정 스트레스
+운동, 영양, 단식, 더위 및 추위 노출, 햇빛, 지적 도전
+건강, 힘, 기능, 인지를 향상시키는 적응 
+
+과도한 스트레스
+과도한 훈련, 영양 과잉, 약물 남용, 번아웃 
+건강, 근력, 기능, 인지에 해를 끼치는 스트레스 강도 또는 기간의 과부하
+
+
+바드1
+
+스트레스는 우리 삶에 도움이 될 수도 있고 해로울 수도 있습니다. 호르메시스(hormesis)는 스트레스의 양이 스트레스 자체만큼 중요하다는 것을 설명하는 생물학적 과정입니다. 호르메시스는 운동, 영양, 정신 연구 및 많은 약이 건강에 도움이 될 수도 있고 해로울 수도 있는 이유를 설명합니다.
+
+호르메시스는 우리가 모두 스트레스가 필요하다는 것을 보여줍니다. 우리 삶은 문자 그대로 스트레스에 달려 있습니다. 스트레스가 없으면 마음, 근육 및 면역 시스템이 약해지고 일과 관계는 답답해지며 뼈조차도 빠르게 소모됩니다.
+
+반면에 세상에서 가장 숙련되고 강하고 건강하며 성공적인 사람들은 하룻밤 사이에 또는 타고난 재능만으로는 그들의 능력을 얻지 못했습니다. 그들은 대부분 호르메시스를 통해 능력을 얻었습니다. 호르메시스는 점차적으로 놀라운 결과를 얻는 단계적 스트레스 노출 프로세스입니다. 우리 각자는 이 호르메시스 잠재력을 가지고 있습니다. 그것은 우리 조상들의 가장 큰 선물 중 하나인 우리 DNA에 코딩되어 있습니다. 그러나 호르메시스의 혜택을 누리려면 스트레스가 균일하게 나쁘거나 제거해야 한다는 일반적인 문화적 밈을 버려야 합니다.
+
+대신 스트레스를 전략적으로 수용함으로써 우리는 자신이 원하는 버전이 되고 원하는 라이프 스타일과 관계를 만들 수 있습니다. 그리고 해로운 스트레스를 최소화하면서 좋은 스트레스를 극대화하는 사회를 만들기 위해 협력함으로써 스트레스가 더 자주 성장과 발전의 귀중한 도구로 보이고 학대와 불평등의 결과로 보이지 않는 문화에 기여할 수 있습니다.
+
+요약
+
+호르메시스를 이해하고 삶에 적용하는 쉬운 방법을 원한다면 골든락스와 세 마리 곰 이야기를 기억하십시오. 포리지처럼 스트레스는 너무 뜨겁거나 너무 차갑을 수 있습니다. 그러나 온도가 적당하면 스트레스는 큰 만족의 원천이 될 수 있습니다.
+
+바드3
+
+스트레스는 우리가 생각하는 것만큼 나쁜 것이 아닙니다. 적절한 양의 스트레스(호메시스 효과)는 우리의 몸과 마음을 더 강하게 만듭니다. 스트레스는 세포, 호르몬, 뉴런, 장기 및 신경 시스템 기능에 변화를 유도하여 더 높은 기술, 힘, 건강, 면역력 또는인지 기능을 생성합니다.
+
+호메시스 효과는 다음과 같은 이유를 설명합니다.
+
+햇빛은 일광욕을 하거나 피부암을 유발할 수 있습니다.
+운동은 병원에 가거나 올림픽에 출전하게 할 수 있습니다.
+찬물 노출은 저체온증을 유발하거나 우울한 증상을 치료할 수 있습니다.
+기아는 우리를 죽이지만 간헐적 단식은 많은 건강상의 이점을 제공합니다.
+영양 품질은 대사 질환을 유발하거나 최적의 건강을 촉진할 수 있습니다.
+직업은 번아웃을 위한 조리법이 될 수도 있고 지속적인 의미와 기여의 원천이 될 수도 있습니다.
+호메시스 효과는 우리 모두가 스트레스가 필요하다는 것을 보여줍니다. 우리의 삶은 문자 그대로 스트레스에 달려 있습니다. 스트레스가 없으면 마음, 근육 및 면역 체계가 약화되고 직업과 관계가  stale해지며 심지어 뼈도 빠르게 소모됩니다. (우주 비행사가 지구 중력을 극복하는 일상적인 스트레스를 잃을 때 극적인 뼈 손실을 고려하십시오.)
+
+반면에 세계에서 가장 숙련되고 강하고 건강하며 번영하는 사람들은 밤새거나 타고난 재능만으로 능력을 습득하지 못했습니다. 그들은 호메시스를 통해 많은 부분을 습득했습니다. 점진적으로 놀라운 결과를 얻은 체계적인 진행성 스트레스 노출 프로세스. 우리 각자는 이러한 호메시스 잠재력을 가지고 있습니다. 우리 조상들의 가장 큰 선물 중 하나인 DNA에 바로 코딩되어 있습니다. 그러나 호메시스로부터 이익을 얻으려면 스트레스가 우리에게 균일하게 나쁘거나 제거해야 한다는 일반적인 문화적 밈을 포기해야 합니다.
+
+대신 스트레스에 대한 전략적인 수용을 채택하면 우리는 선호하는 버전의 자신이 되고 원하는 라이프 스타일과 관계를 만들 수 있습니다. 또한 사회에서 좋은 스트레스를 극대화하고 해로운 스트레스를 최소화하기 위해 협업함으로써 스트레스가 더 자주 성장과 발전을 위한 귀중한 도구로 간주되는 문화에 기여할 수 있습니다.
+
+결론
+
+호메시스를 이해하고 삶에 적용하는 쉬운 방법을 원한다면 골드락스와 세 마리 곰의 이야기를 기억하세요. 죽죽이와 마찬가지로 스트레스도 너무 뜨겁거나 너무 차갑습니다. 그러나 온도가 적당할 때 스트레스는 큰 만족의 원천이 될 수 있습니다.
+
+
+References
+
+1. Calabrese EJ. Hormesis: Path and Progression to Significance. Int J Mol Sci. 2018 Sep 21;19(10):2871. doi: 10.3390/ijms19102871.
+
+2. Mattson MP. Hormesis defined. Ageing Res Rev. 2008 Jan;7(1):1-7. doi: 10.1016/j.arr.2007.08.007. Epub 2007 Dec 5.
+
+3. Stavnichuk, M., Mikolajewicz, N., Corlett, T. et al. A systematic review and meta-analysis of bone loss in space travelers. npj Microgravity 6, 13 (2020). https://doi.org/10.1038/s41526-020-0103-2
+
+
+
+## Mattson
+
+Mattson, M. P. (2008). Hormesis defined. Ageing research reviews, 7(1), 1-7.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2248601
+
+This is a summary of the article opened on the left side in English and Korean:
+
+English:
+
+- The article introduces the concept of **hormesis**, which is a **biphasic dose response** to an environmental agent or stressor characterized by a **low dose stimulation** or beneficial effect and a **high dose inhibition** or toxic effect¹[1].
+- The article explains that hormesis is a common phenomenon in biology and medicine, and that it reflects an **adaptive response** of cells and organisms to a moderate (usually intermittent) stress²[2]. Such stress can activate **cytoprotective pathways** and increase the production of **stress resistance proteins** that enhance the function and survival of cells.
+- The article provides several examples of hormesis in different fields and contexts, such as preconditioning ischemia, exercise, dietary energy restriction, intellectual activities, phytochemicals, and drugs. The article also discusses the implications of hormesis for understanding and modulating the ageing process and various diseases³[3].
+- The article concludes that hormesis is a fundamental concept in evolutionary theory and a unifying hypothesis in toxicology, biology and medicine⁴[4]. The article also suggests that further research is needed to elucidate the mechanisms and applications of hormesis.
+
+Korean:
+
+- 이 기사는 **호르메시스**라는 개념을 소개합니다. 호르메시스란 환경 요인이나 스트레스 요인에 대한 **양상 용량 반응**을 말하며, 낮은 용량에서는 **자극**이나 유익한 효과를, 높은 용량에서는 **억제**나 유해한 효과를 나타냅니다.
+- 이 기사는 호르메시스가 생물학과 의학에서 흔한 현상이며, 이것이 세포와 생물체가 적당한 (보통 간헐적인) 스트레스에 대한 **적응적 반응**을 보여주는 것이라고 설명합니다. 이러한 스트레스는 **세포보호 경로**를 활성화하고 세포의 기능과 생존을 증진시키는 **스트레스 저항 단백질**의 생성을 증가시킵니다.
+- 이 기사는 다양한 분야와 상황에서 호르메시스의 예를 몇 가지 제공합니다. 예를 들면 선행성 허혈, 운동, 식이 에너지 제한, 지적 활동, 식물화학물질, 그리고 약물 등이 있습니다. 이 기사는 또한 호르메시스가 노화 과정과 여러 가지 질환을 이해하고 조절하는 데 미치는 영향에 대해 논합니다.
+- 이 기사는 호르메시스가 진화론적 개념의 기본이며 독성학, 생물학, 의학에서 통일된 가설이라고 결론짓습니다. 이 기사는 또한 호르메시스의 기작과 응용을 밝히기 위해 추가적인 연구가 필요하다고 제안합니다.
+
+
+요약 및 번역
+
+호르메시스의 개념
+
+호르메시스는 낮은 용량의 자극 또는 유익한 효과와 높은 용량의 억제나 독성 효과를 특징으로 하는 환경 인자에 대한 양상 형태 반응을 의미합니다. 생물학과 의학 분야에서 호르메시스는 세포와 생물체의 중간 정도(보통 간헐적) 스트레스에 대한 적응 반응으로 정의됩니다. 예시로는 허혈 전조, 운동, 식이 에너지 제한, 그리고 일부 식물 화학 물질의 저농도 노출이 있습니다. 최근 발견된 사항들은 세포 신호 전달 경로와 호르메시스 반응을 매개하는 분자 기전을 규명했는데, 이는 보통 키네이스, 디아세틸레이스, Nrf-2, NF-kB와 같은 효소 및 전사 인자를 포함합니다. 결과적으로, 세포는 성장 인자, 제2상 및 항산화 효소, 단백질 채포체와 같은 세포보호 및 회복 단백질의 생성을 증가시킵니다. 세포 및 분자 수준에서 호르메시스 기전에 대한 더 나은 이해는 다양한 질병의 예방과 치료를 위한 새로운 접근방식으로 이어지고 있습니다.
+
+요약하자면, 호르메시스는 약물, 영양소, 운동 등의 생리적 스트레스가 적정 수준일 때 유익한 적응 반응을 일으켜 건강에 이롭다는 개념입니다. 이는 세포 수준에서 신호 전달 경로를 활성화하여 세포 보호 효과를 나타냅니다. 따라서 호르메시스는 건강 증진을 위해 일상 생활 속 운동, 영양, 지적 활동 등의 중요성을 설명하는 기전으로 작용합니다.
+
+
+
+호메시스
+
+호메시스는 물질이나 환경 스트레스 요인이 저용량에서는 유기체에 유익한 영향을 미치지만 고용량에서는 해로운 영향을 미치는 생물학적 현상입니다. 저용량 자극 또는 유익한 효과와 고용량 억제 또는 독성 효과가 있는 2상 용량-반응 관계입니다.
+
+호메시스는 스트레스에 대한 근본적인 적응 반응으로 생각됩니다. 유기체가 저용량의 스트레스 요인에 노출되면 더 심한 스트레스로부터 자신을 보호하는 호르몬 신호 경로를 활성화할 수 있습니다. 이러한 경로에는 일반적으로 키나아제 및 탈아세틸화 효소와 같은 효소와 Nrf-2 및 NF-κB와 같은 전사인자가 관여합니다. 그 결과 세포는 성장 인자, 2단계 및 항산화 효소, 단백질 샤프론을 포함한 세포 보호 및 회복 단백질의 생산을 증가시킵니다.
+
+호메시스는 운동, 식이 에너지 제한, 특정 식물성 화학물질의 저용량 노출 등 다양한 생활 습관 및 환경 요인이 건강에 미치는 영향에 중요한 역할을 하는 것으로 알려져 있습니다.
+
+호르메시스의 예
+
+운동: 적당한 규칙적인 운동은 근골격계, 심혈관계, 신경계, 소화계를 포함한 신체의 다양한 조직에 유익합니다. 운동은 세포를 손상으로부터 보호하는 세포 스트레스 반응 경로를 활성화하여 호르몬 분비를 유도합니다.
+식이 에너지 제한: 칼로리 제한은 동물의 수명을 연장하고 많은 노화 관련 질병으로부터 보호하는 것으로 나타났습니다. 식이 에너지 제한은 세포 스트레스 반응 경로를 활성화하여 호르몬 분비를 유도하는 것으로 추정됩니다.
+파이토케미컬: 파이토케미컬은 식물에서 추출한 화합물로 다양한 건강상의 이점이 있습니다. 레스베라트롤과 커큐민과 같은 일부 파이토케미컬은 세포 스트레스 반응 경로를 활성화하여 호르몬 분비를 유도하는 것으로 나타났습니다.
+호메시스 작용이 건강과 질병에 미치는 영향
+
+세포 및 분자 수준에서의 호메시스 메커니즘에 대한 이해가 높아짐에 따라 다양한 질병의 예방과 치료를 위한 새로운 접근 방식이 등장하고 있습니다. 예를 들어, 암, 알츠하이머병, 파킨슨병 및 기타 신경 퇴행성 질환을 치료하기 위한 호메시스 기반 치료법이 개발되고 있습니다.
+
+결론
+
+호르몬 분비는 건강과 질병에 중요한 영향을 미치는 근본적인 생물학적 현상입니다. 호르몬 분비 메커니즘에 대한 더 나은 이해는 다양한 질병의 예방과 치료를 위한 새로운 접근법으로 이어지고 있습니다.
